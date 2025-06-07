@@ -33,6 +33,6 @@
 
     ```bash
     python HandTracking.py
-## Make sure your webcam is accessible.
-## Press Ctrl+C or close the window to stop.
+# Make sure your webcam is accessible.
+# Press Ctrl+C or close the window to stop.
 
