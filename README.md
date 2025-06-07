@@ -30,9 +30,11 @@
     pip install -r requirements.txt
 
 ## Run the App
+   ```bash
+   python HandTracking.py 
+```
 
-    ```bash
-    python HandTracking.py
+
 # Make sure your webcam is accessible.
 # Enter 'q' or close the window to stop.
 
