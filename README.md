@@ -33,7 +33,8 @@
    ```bash
    python HandTracking.py 
 ```
-
+## LICENSE
+MIT License — feel free to use, modify, and share!
 
 # Make sure your webcam is accessible.
 # Enter 'q' or close the window to stop.
