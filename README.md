@@ -17,8 +17,8 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/HandPoseVision.git
-   cd HandPoseVision
+   git clone https://github.com/vaishk984/Mediapipe-Hand-Tracking.git
+   cd Mediapipe-Hand-Tracking
 
 2. Create a virtual environment (recommended):
    ```bash
